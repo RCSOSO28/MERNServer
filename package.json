@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.0",
@@ -25,5 +24,14 @@
     "multer-gridfs-storage": "^5.0.2"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "Server MERN app",
+  "bugs": {
+    "url": "https://github.com/RCSOSO28/MERNServer/issues"
+  },
+  "homepage": "https://github.com/RCSOSO28/MERNServer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RCSOSO28/MERNServer.git"
+  },
+  "author": "Ricardo Cortés"
 }
